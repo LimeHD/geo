@@ -6,6 +6,8 @@
 
 ### Example usage
 
+1. Как модуль в проекте:
+
 ```go
 ...
 
@@ -16,6 +18,8 @@ id, name := reader.GetRegion(ip)
 ...
 
 ```
+
+2. Как консольная утилита:
 
 in command line:
 
