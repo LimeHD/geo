@@ -24,7 +24,7 @@ id, name := reader.GetRegion(ip)
 in command line:
 
 ```
-> geo 192.123.43.12
+> geo -l /usr/local/var/geolite/GeoLite2-City.mmdb 192.123.43.12
 20
 ```
 
