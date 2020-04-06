@@ -17,6 +17,13 @@ id, name := reader.GetRegion(ip)
 
 ```
 
+in command line:
+
+```
+> geo 192.123.43.12
+20
+```
+
 ### Tests
 
 `go test`
