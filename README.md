@@ -1,5 +1,9 @@
 # Geo service package
 
+### Installation
+
+`go get github.com/LimeHD/geo`
+
 ### Example usage
 
 ```go
