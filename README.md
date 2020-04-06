@@ -21,6 +21,11 @@ id, name := reader.GetRegion(ip)
 
 `go test`
 
+### TODO
+
+- [x] Возможность определение региона по IP
+- [ ] Возможность определение региона по координатам
+
 ### Maintainers
 
 <table>
